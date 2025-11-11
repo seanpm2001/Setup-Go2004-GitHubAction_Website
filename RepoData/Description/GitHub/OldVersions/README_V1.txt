@@ -1,0 +1,1 @@
+🟧️2️⃣️0️⃣️0️⃣️4️⃣️🌐️ The official source repository for the website of The Setup Go! (2004) GitHub action project, a GitHub action for the Go! programming language from 2004 (NOT the Google programming language from 2009 named Go)
